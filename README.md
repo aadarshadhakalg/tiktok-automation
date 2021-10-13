@@ -1,16 +1,15 @@
-# tiktok
+# Tiktok Automation With ADB and Flutter
 
-A new Flutter project.
+* Only for Linux
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
+![2021-10-12-232606_1366x768_scrot](https://user-images.githubusercontent.com/19362725/137068967-ccbcce1c-28a4-4bf5-83f0-b25ae637f6ff.png)
+![2021-10-12-232619_1366x768_scrot](https://user-images.githubusercontent.com/19362725/137068974-f98817b9-4f1a-4371-b3a7-aea13421c31c.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Demo
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/19362725/137069033-693d670d-0e12-42d6-8566-c11df933e702.mp4
+
